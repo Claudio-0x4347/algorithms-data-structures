@@ -1,0 +1,6 @@
+# visual studio code workspace
+.vscode/
+
+# compilation folders
+[Bb]in/
+[Oo]bj/
